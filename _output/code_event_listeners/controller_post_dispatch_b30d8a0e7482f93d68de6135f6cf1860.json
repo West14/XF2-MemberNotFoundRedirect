@@ -1,0 +1,9 @@
+{
+    "event_id": "controller_post_dispatch",
+    "execute_order": 1000,
+    "callback_class": "West\\MemberNotFoundRedirect\\Listener",
+    "callback_method": "memberPostDispatch",
+    "active": true,
+    "hint": "XF\\Pub\\Controller\\Member",
+    "description": ""
+}

@@ -1,7 +1,7 @@
 {
     "legacy_addon_id": "",
     "title": "[West] Member Not Found Redirect",
-    "description": "",
+    "description": "Redirect to the \"Notable members\" page, when we encounter a 404 error on the XF:Member controller.",
     "version_id": 1000010,
     "version_string": "1.0.0 Alpha",
     "dev": "West",

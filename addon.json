@@ -1,0 +1,21 @@
+{
+    "legacy_addon_id": "",
+    "title": "[West] Member Not Found Redirect",
+    "description": "",
+    "version_id": 1000010,
+    "version_string": "1.0.0 Alpha",
+    "dev": "West",
+    "dev_url": "https://t.me/West99",
+    "faq_url": "",
+    "support_url": "",
+    "extra_urls": {
+        "GitHub": "https://github.com/West14/"
+    },
+    "require": {
+        "XF": [
+            2010570,
+            "XenForo 2.1.5+"
+        ]
+    },
+    "icon": "fad fa-code"
+}

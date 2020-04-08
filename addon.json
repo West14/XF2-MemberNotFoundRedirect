@@ -9,7 +9,7 @@
     "faq_url": "",
     "support_url": "",
     "extra_urls": {
-        "GitHub": "https://github.com/West14/"
+        "GitHub": "https://github.com/West14/XF2-MemberNotFoundRedirect"
     },
     "require": {
         "XF": [
